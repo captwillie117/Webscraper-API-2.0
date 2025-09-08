@@ -1,7 +1,0 @@
-flask
-flask-limiter
-requests
-beautifulsoup4
-gunicorn
-logtail-python
-flask-cors
